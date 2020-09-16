@@ -8,7 +8,7 @@
   	<servlet-name>PicServlet</servlet-name>
   	<display-name>PicServlet</display-name>
   	<description></description>
-  	<servlet-class>com.michael.web.PicServlet</servlet-class>
+  	<servlet-class>com.michael.web.LocalPicServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>PicServlet</servlet-name>

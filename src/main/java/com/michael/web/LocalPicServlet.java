@@ -25,8 +25,8 @@ import sun.misc.BASE64Encoder;
 /**
  * Servlet implementation class PicServlet
  */
-@WebServlet("/java")
-public class PicServlet extends HttpServlet {
+@WebServlet("/local")
+public class LocalPicServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 

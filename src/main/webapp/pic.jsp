@@ -15,7 +15,7 @@
 	%>
 	<%-- <%=data%> --%>
 	<img src="data:image; base64, <%=data%>"/>
-	<input id="button1" type="button" value="图片按钮" onclick="toPic('<%=data%>')"/>
+	<%-- <input id="button1" type="button" value="图片按钮" onclick="toPic('<%=data%>')"/> --%>
 	<input id="button2" type="button" value="图片按钮2" onclick="toPic2()" />
 </body>
 
